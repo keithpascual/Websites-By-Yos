@@ -22,32 +22,48 @@ body {
   display: flex;
   gap: 30px;
   list-style: none;
-  position: relative;
-  right: 35rem;
+  position: absolute;
+  justify-content: center;
 }
 
 .navigations li {
   margin: 0;
+  
 }
 
 .navigations a {
   text-decoration: none;
   font-size: 20px;
-  color: black; /* Change the font color to black */
+  color: black;
+  display: flex;
+  position: relative;
+  left: 100px;
 }
 
 .logo {
   display: flex;
   justify-content: center;
   align-items: center;
-  position: relative;
   right: 47rem;
   font-size: 60px;
-  color: black; /* Change the font color to black */
-  /* width: 250px;
-  height: 82px; */
+  color: black; 
+  width: 250px;
+  height: 82px;
 }
 
 .jap-logo{
   color: #000;
+}
+
+svg{
+  position: relative;
+  right: 10rem;
+  width: 20px;
+}
+
+.icon-navigations{
+  display: flex;
+  position: relative;
+  gap: 35px;
+  left:  6rem; 
 }
