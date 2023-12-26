@@ -9,6 +9,7 @@
 
 body {
   background-color: #fff;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
 }
 
 
@@ -16,12 +17,11 @@ body {
 
 .nav-container {
   display: flex;
-  /* background-color: aqua; */
   justify-content: space-between;
   align-items: center;
   padding: 20px 100px;
-  /* position: relative;
-  left: 73px; */
+  position: relative;
+  left: 2rem;
 }
 
 .navigations {
@@ -49,13 +49,12 @@ body {
 .logo {
   display: flex;
   justify-content: center;
+  align-items: center;
   right: 47rem;
-  font-size: 60px;
+  font-size: 70px;
   color: black; 
   width: 250px;
   height: 82px;
-  position: relative;
-  left: 4rem;
 }
 
 .jap-logo{
@@ -69,18 +68,11 @@ svg{
   color: #000;
 }
 
-/* .icon-navigations{
-  display: flex;
-  position: relative;
-  gap: 35px;
-  left:  6rem; 
-} */
-
 .icon-navigations {
   display: flex;
   gap: 35px;
   position: relative;
-  left: 3rem;
+  left: 7rem;
 }
 
 /* Title page */
@@ -96,7 +88,6 @@ svg{
 
 }
 
-
 .paragraph{
   width: 549px;
   height: 106px;
@@ -110,6 +101,7 @@ button {
   border-radius: 8px;
   transition: border-color 0.3s ease;
   letter-spacing: 0.32px;
+  cursor: pointer;
 }
 
 button:hover {
