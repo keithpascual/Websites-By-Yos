@@ -3,35 +3,23 @@
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
+    font-family: 'Outfit', sans-serif;
   }
   
-  body {
+body {
     background-color: #fff;
-  }
+}
   
-  .navhead {
+.main-nav {
+    display: flex;
     background-color: aqua;
-  }
-  
-  .main-nav {
-    display: flex;
-    list-style: none;
-    justify-content: space-around;
-    align-items: center;
-    height: 80px;
-  }
-  
-  /* .main-nav li {
     margin: 0;
-  }
-   */
-  .main-nav a {
-    padding: 15px;
-    display: flex;
-    color: #000; 
-  }
-  
-  .main-nav a:hover {
-    background-color: #ddd;
-  }
-  
+    padding: 0;
+    list-style: none;
+}
+
+.main-nav a {
+    padding: 3em;
+    display: block;
+}
+
