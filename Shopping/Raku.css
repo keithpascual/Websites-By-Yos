@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   text-decoration: none;
+  list-style-type: none;
   font-family: 'Outfit', sans-serif; /* Make sure to import your desired font */
 }
 
@@ -10,12 +11,17 @@ body {
   background-color: #fff;
 }
 
+
+/* navigation */
+
 .nav-container {
   display: flex;
   /* background-color: aqua; */
   justify-content: space-between;
   align-items: center;
   padding: 20px 100px;
+  /* position: relative;
+  left: 73px; */
 }
 
 .navigations {
@@ -43,12 +49,13 @@ body {
 .logo {
   display: flex;
   justify-content: center;
-  align-items: center;
   right: 47rem;
   font-size: 60px;
   color: black; 
   width: 250px;
   height: 82px;
+  position: relative;
+  left: 4rem;
 }
 
 .jap-logo{
@@ -59,11 +66,54 @@ svg{
   position: relative;
   right: 10rem;
   width: 20px;
+  color: #000;
 }
 
-.icon-navigations{
+/* .icon-navigations{
   display: flex;
   position: relative;
   gap: 35px;
   left:  6rem; 
+} */
+
+.icon-navigations {
+  display: flex;
+  gap: 35px;
+  position: relative;
+  left: 3rem;
 }
+
+/* Title page */
+
+.text-container{
+  display: flex;
+  flex-direction: column;
+  font-size: 25px;
+  gap: 23px;
+  position: relative;
+  left: 10rem;
+  top: 12rem;
+
+}
+
+
+.paragraph{
+  width: 549px;
+  height: 106px;
+}
+
+button {
+  width: 311px;
+  height: 58px;
+  background-color: #fff;
+  border: 2px solid black;
+  border-radius: 8px;
+  transition: border-color 0.3s ease;
+  letter-spacing: 0.32px;
+}
+
+button:hover {
+  border-color: #000;
+}
+
+
