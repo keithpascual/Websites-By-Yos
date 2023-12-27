@@ -12,6 +12,10 @@ body {
   overflow-x: hidden;
 }
 
+@media screen and (max-width:600px){
+  
+}
+
 /* navigation */
 
 .nav-container {
@@ -51,7 +55,7 @@ body {
 
 
 .logo {
-  font-size: 50px;
+  font-size: 45.9px;
   color: black;
   margin-right: auto;
 }
@@ -100,5 +104,7 @@ button {
 button:hover {
   border-color: #000;
 }
+
+
 
 /* Footer */
