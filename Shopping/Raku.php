@@ -53,8 +53,47 @@
     <button>EXPLORE NEW SUMMER STYLE</button>
     </div>
 
-    <footer class="footer">
+    <footer>
+        <div class="footer-section">
+            <div class="men">
+                <h3>Men</h3>
+                <a href="#">EXPLORE MEN’S</a>
+                <a href="#">CLOTHING</a>
+                <a href="#">SNOW</a>
+            </div>
 
+            <div class="women">
+                <h3>Women</h3>
+                <a href="#">EXPLORE WOMEN’S</a>
+                <a href="#">CLOTHING</a>
+                <a href="#">SNOW</a>
+            </div>
+
+            <div class="explore">
+                <h3>Explore</h3>
+                <a href="#">OUR STORES</a>
+                <a href="#">ABOUT</a>
+            </div>
+
+            <div class="support">
+                <h3>Support</h3>
+                <a href="#">FAQ</a>
+                <a href="#">ACCESABILITY</a>
+                <a href="#">CONTACTS</a>
+            </div>
+
+            <div class="social-icons">
+                <h3>Connect</h3>
+                <a href="#">INSTAGRAM</a>
+                <a href="#">FACEBOOK</a>
+                <a href="#">TIKTOK</a>
+                <a href="#">TWITTER</a>
+            </div>
+        </div>
     </footer>
+
+    <div class="copyright">
+        <p>© 2023 ALL RIGHTS RESERVED | <a href="#">PRIVACY</a> | <a href="#">TERMS OF USE</a></p>
+    </div>
 </body>
 </html>
