@@ -11,13 +11,14 @@
 </head>
 <body>
     <header class="nav-container">
-        <h1><a href="#" class="jap-logo">楽</a></h1>
+        <h1><a href="#" class="logo ">楽 R A K U</a></h1>
+
             <ul class="navigations">
                 <li class="item item-1"><a href="#">Men</a></li>
                 <li class="item item-1"><a href="#">Women</a></li>
                 <li class="item item-1"><a href="#">Explore</a></li>
             </ul>
-        <h1><a href="#" class="logo ">R A K U</a></h1>
+
         
         <ul class="icon-navigations">
             

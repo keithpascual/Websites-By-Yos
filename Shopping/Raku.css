@@ -16,23 +16,21 @@ body {
 
 .nav-container {
   display: flex;
-  justify-content: flex-start;
-  gap: 10px;
+  justify-content: space-between;
   align-items: center;
   padding: 30px 10%;
 }
 
 
 .navigations {
-  list-style: none;
-  text-decoration: none;
   font-size: 16px;
+  gap: 3px;
 }
 
 .navigations li {
-  margin: 0px;
+  margin-left: auto;
   display: inline-block;
-  padding: 0px 20px;
+  padding: 0px 2px;
 }
 
 .navigations a {
@@ -43,13 +41,7 @@ body {
 .logo {
   font-size: 30px;
   color: black;
-  /* margin-left: 24rem; */
-}
-
-
-.jap-logo {
-  color: #000;
-  font-size: 30px;
+  margin-right: auto;
 }
 
 svg {
@@ -61,7 +53,6 @@ svg {
 
 .icon-navigations {
   display: flex;
-  margin-left: auto;
   gap: 20px;
   order: 1;
 }
