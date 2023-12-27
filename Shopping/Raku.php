@@ -20,17 +20,18 @@
         <h1><a href="#" class="logo ">R A K U</a></h1>
         
         <ul class="icon-navigations">
-            <li><a href="#"><svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+            
+            <li class="icon-1"><a href="#"><svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z"/>
                 </svg>
             </a></li>
 
-            <li><a href="#"><svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 20">
+            <li class="icon-2"><a href="#"><svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 20">
                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 15a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm0 0h8m-8 0-1-4m9 4a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm-9-4h10l2-7H3m2 7L3 4m0 0-.792-3H1"/>
                 </svg>
             </a></li>
 
-            <li><a href="#"><svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 18">
+            <li class="icon-3"><a href="#"><svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 18">
                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm-2 3h4a4 4 0 0 1 4 4v2H1v-2a4 4 0 0 1 4-4Z"/>
                 </svg>
             </a></li>
@@ -46,11 +47,11 @@
         <p>Welcome to RAKU, where fashion is always in season! 
         Browse our collection and get ready to elevate your summer style!</p>
     </div>
-    <!-- <div class="explore-button"> -->
-        <button>EXPLORE NEW SUMMER STYLE</button>
-</div>
-
-
+    <button>EXPLORE NEW SUMMER STYLE</button>
     </div>
+
+    <footer class="footer">
+
+    </footer>
 </body>
 </html>
