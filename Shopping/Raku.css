@@ -72,10 +72,18 @@ svg {
 
 /* Content page */
 
+.model{
+  width: 35rem; 
+  height: auto;
+  position: relative;
+  top: -322px !important;
+  left: 876px !important;
+}
+
 .text-container {
   display: flex;
   flex-direction: column;
-  font-size: 20px;
+  font-size: 30px;
   gap: 15px;
   padding: 192px;
 }
@@ -84,6 +92,7 @@ svg {
   width: 100%;
   max-width: 549px;
   height: auto;
+  font-size: 15px;
 }
 
 button {
@@ -102,26 +111,27 @@ button:hover {
   border-color: #000;
 }
 
+
+
 /* Footer */
 footer {
   background-color: #fff;
   color: #000;
-  padding: 20px;
+  padding: 30px;
   text-align: center;
 }
 
 .footer-section {
   max-width: 1245px;
-  margin: 0 auto; /* Center the content */
+  margin: 0 auto;
   display: flex;
   justify-content: space-between;
-  margin-bottom: 20px;
 }
+
 
 .footer-section > div {
   flex: 1;
   text-align: left;
-  
   padding: 0 10px;
 }
 
@@ -149,3 +159,4 @@ footer {
 .copyright a{
   color: #000;
 }
+

@@ -51,7 +51,13 @@
         Browse our collection and get ready to elevate your summer style!</p>
     </div>
     <button>EXPLORE NEW SUMMER STYLE</button>
+
+    <img class="model" src="img/Rakumodel.jpg" alt="">
     </div>
+
+    
+
+    <!-- Footer -->
 
     <footer>
         <div class="footer-section">
