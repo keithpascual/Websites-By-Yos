@@ -19,7 +19,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 30px 10%;
+  padding: 30px 15%;
 }
 
 
@@ -36,7 +36,9 @@ body {
 }
 
 .symbol {
-  font-size: 16px;
+  font-size: 20px;
+  padding: 0;
+  height: auto;
 }
 
 .symbol h1 {
@@ -76,16 +78,18 @@ svg {
   width: 35rem; 
   height: auto;
   position: relative;
-  top: -322px !important;
-  left: 876px !important;
+  left: 751px !important;
+  top: -307px !important;
 }
 
 .text-container {
   display: flex;
   flex-direction: column;
-  font-size: 30px;
+  font-size: 25px;
   gap: 15px;
-  padding: 192px;
+  height: auto;
+  /* padding: 194px; */
+  padding: 200px 15%;
 }
 
 .paragraph {
