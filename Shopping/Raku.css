@@ -41,9 +41,9 @@ body {
 }
 
 .logo {
-  font-size: 70px;
+  font-size: 30px;
   color: black;
-  margin-left: 24rem;
+  /* margin-left: 24rem; */
 }
 
 
