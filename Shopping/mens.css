@@ -73,50 +73,6 @@ svg {
   order: 1;
 }
 
-/* Content page */
-
-.model {
-  width: 35rem;
-  height: auto;
-  position: relative;
-  left: 751px !important;
-  top: -307px !important;
-}
-
-.text-container {
-  display: flex;
-  flex-direction: column;
-  font-size: 25px;
-  gap: 15px;
-  height: auto;
-  /* padding: 194px; */
-  padding: 200px 15%;
-}
-
-.paragraph {
-  width: 100%;
-  max-width: 549px;
-  height: auto;
-  font-size: 15px;
-}
-
-button {
-  width: 100%;
-  max-width: 311px;
-  height: 58px;
-  background-color: #fff;
-  border: 2px solid black;
-  border-radius: 8px;
-  transition: border-color 0.3s ease;
-  letter-spacing: 0.32px;
-  cursor: pointer;
-}
-
-button:hover {
-  border-color: #000;
-}
-
-
 
 /* Footer */
 footer {
