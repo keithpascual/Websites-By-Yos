@@ -15,13 +15,13 @@
     <div class="nav-container">
 
         <ul class="navigations">
-            <h1 class="symbol"><a href="#">楽</a></h1>
+            <h1 class="symbol"><a href="Raku.php">楽</a></h1>
             <li class="item item-1"><a href="#">Men</a></li>
             <li class="item item-1"><a href="#">Women</a></li>
             <li class="item item-1"><a href="#">Explore</a></li>
         </ul>
 
-        <h1><a href="#" class="logo ">R A K U</a></h1>
+        <h1><a href="Raku.php" class="logo">R A K U</a></h1>
 
         <ul class="icon-navigations">
 

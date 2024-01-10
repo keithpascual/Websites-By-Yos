@@ -14,8 +14,8 @@
     <div class="nav-container">
         
             <ul class="navigations">
-                <h1 class="symbol"><a href="#">楽</a></h1>
-                <li class="item item-1"><a href="#">Men</a></li>
+                <h1 class="symbol"><a href="Raku.php">楽</a></h1>
+                <li class="item item-1"><a href="mens.php">Men</a></li>
                 <li class="item item-1"><a href="#">Women</a></li>
                 <li class="item item-1"><a href="#">Explore</a></li>
             </ul>
@@ -63,7 +63,7 @@
         <div class="footer-section">
             <div class="men">
                 <h3>Men</h3>
-                <a href="#">EXPLORE MEN’S</a>
+                <a href="mens.php">EXPLORE MEN’S</a>
                 <a href="#">CLOTHING</a>
                 <a href="#">SNOW</a>
             </div>
