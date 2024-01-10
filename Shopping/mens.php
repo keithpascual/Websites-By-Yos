@@ -43,6 +43,12 @@
 
     </div>
 
+    <!-- Content -->
+
+    <div class="background">
+        <img class="model" src="img/menbackground.png" alt="">
+    </div>
+
     <!-- footer -->
 
     <footer>

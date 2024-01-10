@@ -73,6 +73,16 @@ svg {
     order: 1;
 }
 
+.background{
+    display: flex;
+    justify-content: center;
+}
+
+.model{
+    width: 1340px;
+    height: 460px;
+ 
+}
 
 /* Footer */
 footer {
