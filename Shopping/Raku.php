@@ -16,8 +16,8 @@
             <ul class="navigations">
                 <h1 class="symbol"><a href="Raku.php">楽</a></h1>
                 <li class="item item-1"><a href="mens.php">Men</a></li>
-                <li class="item item-1"><a href="#">Women</a></li>
-                <li class="item item-1"><a href="#">Explore</a></li>
+                <li class="item item-1"><a href="#">Contacts</a></li>
+                <li class="item item-1"><a href="#">About us</a></li>
             </ul>
 
         <h1><a href="#" class="logo ">R A K U</a></h1>
@@ -68,17 +68,9 @@
                 <a href="#">SNOW</a>
             </div>
 
-            <div class="women">
-                <h3>Women</h3>
-                <a href="#">EXPLORE WOMEN’S</a>
-                <a href="#">CLOTHING</a>
-                <a href="#">SNOW</a>
-            </div>
-
             <div class="explore">
                 <h3>Explore</h3>
-                <a href="#">OUR STORES</a>
-                <a href="#">ABOUT</a>
+                <a href="#">ABOUT US</a>
             </div>
 
             <div class="support">

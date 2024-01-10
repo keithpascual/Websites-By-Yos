@@ -17,8 +17,8 @@
         <ul class="navigations">
             <h1 class="symbol"><a href="Raku.php">楽</a></h1>
             <li class="item item-1"><a href="#">Men</a></li>
-            <li class="item item-1"><a href="#">Women</a></li>
-            <li class="item item-1"><a href="#">Explore</a></li>
+            <li class="item item-1"><a href="#">Contacts</a></li>
+            <li class="item item-1"><a href="#">About us</a></li>
         </ul>
 
         <h1><a href="Raku.php" class="logo">R A K U</a></h1>
@@ -49,6 +49,17 @@
         <img class="model" src="img/menbackground.png" alt="">
     </div>
 
+    <section class="sec">
+        <div class="products">
+
+            <div class="card">
+                
+
+            </div>
+
+        </div>
+    </section>
+
     <!-- footer -->
 
     <footer>
@@ -60,12 +71,6 @@
                 <a href="#">SNOW</a>
             </div>
 
-            <div class="women">
-                <h3>Women</h3>
-                <a href="#">EXPLORE WOMEN’S</a>
-                <a href="#">CLOTHING</a>
-                <a href="#">SNOW</a>
-            </div>
 
             <div class="explore">
                 <h3>Explore</h3>
