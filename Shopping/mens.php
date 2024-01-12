@@ -54,11 +54,11 @@
 
             <div class="sec">
 
-                <!-- Products CLOTHING START -->
+                <h1 style="margin-bottom: 20px;">Men's Apparel</h1>
+                <hr class="line" style="width: 96%; border: 1px solid #000; margin-bottom: 50px;">
 
-                <h1>Men's Apparel</h1>
-                <hr style="width: 100%; border: 1px solid #000;">
-                
+
+                <!-- Products CLOTHING START -->
                 <div class="products">
 
                     <div class="card">
@@ -122,7 +122,7 @@
                         <div class="desc">Men</div>
                         <div class="title">Men Drawstring Waist Slant Pocket Shorts</div>
                         <div class="box">
-                            <div class="price">₱359</div>
+                            <div class="price">₱799</div>
                             <button class="btn">Buy Now</button>
                         </div>
                     </div>
@@ -138,12 +138,12 @@
                         </div>
                     </div>
 
-                   <div class="card">
+                    <div class="card">
                         <div class="img"><img src="img/shorts1.png" alt=""></div>
                         <div class="desc">Men</div>
                         <div class="title">Men Letter Patched Detail Drawstring Waist Shorts</div>
                         <div class="box">
-                            <div class="price">₱799 </div>
+                            <div class="price">₱359 </div>
                             <button class="btn">Buy Now</button>
                         </div>
                     </div>
