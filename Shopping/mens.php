@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300&display=swap" rel="stylesheet">
-    <title>Men's Apparel</title>
+    <title>Men Apparel</title>
 </head>
 
 <body>
@@ -59,7 +59,7 @@
 
                     <div class="card">
                         <div class="img"><img src="img/clothing1.png" alt=""></div>
-                        <div class="desc">Men's</div>
+                        <div class="desc">Men</div>
                         <div class="title">Men's Henley Shirt Casual Long Sleeve</div>
                         <div class="box">
                             <div class="price">₱1,099</div>
@@ -69,20 +69,30 @@
 
                     <div class="card">
                         <div class="img"><img src="img/clothing2.png" alt=""></div>
-                        <div class="desc">Men's</div>
-                        <div class="title">Men's Henley Shirt Casual Long Sleeve</div>
+                        <div class="desc">Men</div>
+                        <div class="title">Men's Oversized T-Shirt</div>
                         <div class="box">
-                            <div class="price">₱1,099</div>
+                            <div class="price">₱369</div>
                             <button class="btn">Buy Now</button>
                         </div>
                     </div>
 
                     <div class="card">
                         <div class="img"><img src="img/clothing3.png" alt=""></div>
-                        <div class="desc">Men's</div>
-                        <div class="title">Men's Henley Shirt Casual Long Sleeve</div>
+                        <div class="desc">Men</div>
+                        <div class="title">Men's Woven Cotton Linen Casual Short Sleeve Shirt </div>
                         <div class="box">
-                            <div class="price">₱1,099</div>
+                            <div class="price">₱399</div>
+                            <button class="btn">Buy Now</button>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="img"><img src="img/clothing4.png" alt=""></div>
+                        <div class="desc">Men</div>
+                        <div class="title">Men's Vintage Crochet Shirt</div>
+                        <div class="box">
+                            <div class="price">₱399</div>
                             <button class="btn">Buy Now</button>
                         </div>
                     </div>
@@ -95,44 +105,85 @@
 
                     <div class="card">
                         <div class="img"><img src="img/pants1.png" alt=""></div>
-                        <div class="desc">Men's</div>
-                        <div class="title">Men's Henley Shirt Casual Long Sleeve</div>
+                        <div class="desc">Men</div>
+                        <div class="title">Men Elastic Waist Solid Slant Pocket Trousers</div>
                         <div class="box">
-                            <div class="price">₱1,099</div>
+                            <div class="price">₱799 </div>
                             <button class="btn">Buy Now</button>
                         </div>
                     </div>
 
                     <div class="card">
                         <div class="img"><img src="img/pants2.png" alt=""></div>
-                        <div class="desc">Men's</div>
-                        <div class="title">Men's Henley Shirt Casual Long Sleeve</div>
+                        <div class="desc">Men</div>
+                        <div class="title">Men Drawstring Waist Slant Pocket Shorts</div>
                         <div class="box">
-                            <div class="price">₱1,099</div>
+                            <div class="price">₱359</div>
                             <button class="btn">Buy Now</button>
                         </div>
                     </div>
 
+
+                    <div class="card">
+                        <div class="img"><img src="img/pants3.png" alt=""></div>
+                        <div class="desc">Men</div>
+                        <div class="title">Mens Cotton Solid Color Loose Casual, Harem Pants </div>
+                        <div class="box">
+                            <div class="price">₱699 </div>
+                            <button class="btn">Buy Now</button>
+                        </div>
+                    </div>
+
+                   <div class="card">
+                        <div class="img"><img src="img/shorts1.png" alt=""></div>
+                        <div class="desc">Men</div>
+                        <div class="title">Men Letter Patched Detail Drawstring Waist Shorts</div>
+                        <div class="box">
+                            <div class="price">₱799 </div>
+                            <button class="btn">Buy Now</button>
+                        </div>
+                    </div>
                 </div>
                 <!-- Products Pants End -->
 
                 <!-- Products Shorts Start -->
-                <div class="products">
+                <!-- <div class="products">
 
                     <div class="card">
                         <div class="img"><img src="img/shorts1.png" alt=""></div>
                         <div class="desc">Men's</div>
-                        <div class="title">Men's Henley Shirt Casual Long Sleeve</div>
+                        <div class="title">Men Letter Patched Detail Drawstring Waist Shorts</div>
                         <div class="box">
-                            <div class="price">₱1,099</div>
+                            <div class="price">₱289</div>
                             <button class="btn">Buy Now</button>
                         </div>
                     </div>
 
                 </div>
-                <!-- Products Shorts End -->
 
-            </div>
+                <div class="products">
+                    <div class="card">
+                        <div class="img"><img src="img/shorts1.png" alt=""></div>
+                        <div class="desc">Men's</div>
+                        <div class="title">Men Letter Patched Detail Drawstring Waist Shorts</div>
+                        <div class="box">
+                            <div class="price">₱289</div>
+                            <button class="btn">Buy Now</button>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="img"><img src="img/shorts1.png" alt=""></div>
+                        <div class="desc">Men's</div>
+                        <div class="title">Men Letter Patched Detail Drawstring Waist Shorts</div>
+                        <div class="box">
+                            <div class="price">₱289</div>
+                            <button class="btn">Buy Now</button>
+                        </div>
+                    </div>
+
+                </div> -->
+                <!-- Products Shorts End -->
     </section>
 
     <!-- footer -->

@@ -79,7 +79,7 @@ svg {
 }
 
 .model {
-    width: 1340px;
+    width: 1590px;
     height: 460px;
 
 }
@@ -105,7 +105,7 @@ svg {
 }
 
 .products .card .desc {
-    padding: 5px, 20px;
+    padding: 5px 20px;
     opacity: 0.8;
 }
 
@@ -142,6 +142,11 @@ svg {
     cursor: pointer;
     background-color: #f63e4e;
     color: white;
+}
+
+.products{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
 }
 
 /* Products End */
