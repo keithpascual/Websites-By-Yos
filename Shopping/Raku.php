@@ -46,19 +46,11 @@
 
     <!-- Content -->
 
-    <div class="text-container">
-        <div class="text-box">
-            <div class="text-1">
-                <h1><strong>Summer is almost here!</strong></h1>
-            </div>
-            <div class="paragraph">
-                <p>Welcome to RAKU, where fashion is always in season!
-                    Browse our collection and get ready to elevate your summer style!</p>
-            </div>
-            <a href="mens.php"><button>EXPLORE NEW SUMMER STYLE</button></a>
-        </div>
+    <div class="content">
+        <h2>Summer is almost here!</h2>
+        <p>Welcome to RAKU, Browse our shop and elevate your summer style!</p>
+        <a href="mens.php"><button>Browse Our Store</button></a>
     </div>
-
     <img class="model" src="img/Rakumodel.png" alt="Raku Summer Fashion Model">
 
 
