@@ -50,7 +50,7 @@
         <p>Welcome to RAKU, where fashion is always in season! 
         Browse our collection and get ready to elevate your summer style!</p>
     </div>
-    <button>EXPLORE NEW SUMMER STYLE</button>
+    <a href="mens.php"><button>EXPLORE NEW SUMMER STYLE</button></a>
 
     <img class="model" src="img/Rakumodel.jpg" alt="">
     </div>
