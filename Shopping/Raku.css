@@ -79,8 +79,8 @@ svg {
   width: 35rem;
   height: auto;
   position: relative;
-  left: 751px !important;
-  top: -307px !important;
+  top: -476px;
+  left: 1044px;
 }
 
 .text-container {
@@ -89,7 +89,7 @@ svg {
   font-size: 25px;
   gap: 15px;
   height: auto;
-  /* padding: 194px; */
+
   padding: 200px 15%;
 }
 
@@ -98,6 +98,8 @@ svg {
   max-width: 549px;
   height: auto;
   font-size: 15px;
+  margin-top: 23px;
+  margin-bottom: 23px;
 }
 
 button {
