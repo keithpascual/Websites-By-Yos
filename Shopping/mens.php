@@ -55,6 +55,10 @@
             <div class="sec">
 
                 <!-- Products CLOTHING START -->
+
+                <h1>Men's Apparel</h1>
+                <hr style="width: 100%; border: 1px solid #000;">
+                
                 <div class="products">
 
                     <div class="card">
@@ -144,46 +148,8 @@
                         </div>
                     </div>
                 </div>
-                <!-- Products Pants End -->
+                <!-- Products Pants & Shorts End -->
 
-                <!-- Products Shorts Start -->
-                <!-- <div class="products">
-
-                    <div class="card">
-                        <div class="img"><img src="img/shorts1.png" alt=""></div>
-                        <div class="desc">Men's</div>
-                        <div class="title">Men Letter Patched Detail Drawstring Waist Shorts</div>
-                        <div class="box">
-                            <div class="price">₱289</div>
-                            <button class="btn">Buy Now</button>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div class="products">
-                    <div class="card">
-                        <div class="img"><img src="img/shorts1.png" alt=""></div>
-                        <div class="desc">Men's</div>
-                        <div class="title">Men Letter Patched Detail Drawstring Waist Shorts</div>
-                        <div class="box">
-                            <div class="price">₱289</div>
-                            <button class="btn">Buy Now</button>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <div class="img"><img src="img/shorts1.png" alt=""></div>
-                        <div class="desc">Men's</div>
-                        <div class="title">Men Letter Patched Detail Drawstring Waist Shorts</div>
-                        <div class="box">
-                            <div class="price">₱289</div>
-                            <button class="btn">Buy Now</button>
-                        </div>
-                    </div>
-
-                </div> -->
-                <!-- Products Shorts End -->
     </section>
 
     <!-- footer -->
