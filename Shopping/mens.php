@@ -52,12 +52,87 @@
     <section class="sec">
         <div class="products">
 
-            <div class="card">
-                
+            <div class="sec">
+
+                <!-- Products CLOTHING START -->
+                <div class="products">
+
+                    <div class="card">
+                        <div class="img"><img src="img/clothing1.png" alt=""></div>
+                        <div class="desc">Men's</div>
+                        <div class="title">Men's Henley Shirt Casual Long Sleeve</div>
+                        <div class="box">
+                            <div class="price">₱1,099</div>
+                            <button class="btn">Buy Now</button>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="img"><img src="img/clothing2.png" alt=""></div>
+                        <div class="desc">Men's</div>
+                        <div class="title">Men's Henley Shirt Casual Long Sleeve</div>
+                        <div class="box">
+                            <div class="price">₱1,099</div>
+                            <button class="btn">Buy Now</button>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="img"><img src="img/clothing3.png" alt=""></div>
+                        <div class="desc">Men's</div>
+                        <div class="title">Men's Henley Shirt Casual Long Sleeve</div>
+                        <div class="box">
+                            <div class="price">₱1,099</div>
+                            <button class="btn">Buy Now</button>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- Products CLOTHING END -->
+
+                <!-- Products Pants Start -->
+                <div class="products">
+
+                    <div class="card">
+                        <div class="img"><img src="img/pants1.png" alt=""></div>
+                        <div class="desc">Men's</div>
+                        <div class="title">Men's Henley Shirt Casual Long Sleeve</div>
+                        <div class="box">
+                            <div class="price">₱1,099</div>
+                            <button class="btn">Buy Now</button>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="img"><img src="img/pants2.png" alt=""></div>
+                        <div class="desc">Men's</div>
+                        <div class="title">Men's Henley Shirt Casual Long Sleeve</div>
+                        <div class="box">
+                            <div class="price">₱1,099</div>
+                            <button class="btn">Buy Now</button>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- Products Pants End -->
+
+                <!-- Products Shorts Start -->
+                <div class="products">
+
+                    <div class="card">
+                        <div class="img"><img src="img/shorts1.png" alt=""></div>
+                        <div class="desc">Men's</div>
+                        <div class="title">Men's Henley Shirt Casual Long Sleeve</div>
+                        <div class="box">
+                            <div class="price">₱1,099</div>
+                            <button class="btn">Buy Now</button>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- Products Shorts End -->
 
             </div>
-
-        </div>
     </section>
 
     <!-- footer -->
