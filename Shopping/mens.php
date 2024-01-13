@@ -160,21 +160,21 @@
                 <h3>Men</h3>
                 <a href="#">EXPLORE MEN’S</a>
                 <a href="#">CLOTHING</a>
-                <a href="#">SNOW</a>
+
             </div>
 
 
             <div class="explore">
                 <h3>Explore</h3>
                 <a href="#">OUR STORES</a>
-                <a href="#">ABOUT</a>
+                <a href="Raku.php#about-us">ABOUT US</a>
             </div>
 
             <div class="support">
                 <h3>Support</h3>
                 <a href="#">FAQ</a>
                 <a href="#">ACCESABILITY</a>
-                <a href="#">CONTACTS</a>
+                <a href="contacts.php">CONTACTS</a>
             </div>
 
             <div class="social-icons">

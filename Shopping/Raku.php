@@ -80,7 +80,7 @@
 
                 <div class="explore">
                     <h3>Explore</h3>
-                    <a href="#">ABOUT US</a>
+                    <a href="#about-us">ABOUT US</a>
                 </div>
 
                 <div class="support">
