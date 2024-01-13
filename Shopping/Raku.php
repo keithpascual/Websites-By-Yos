@@ -19,7 +19,7 @@
             <h1 class="symbol"><a href="Raku.php">楽</a></h1>
             <li class="item item-1"><a href="mens.php">Men</a></li>
             <li class="item item-1"><a href="#">Contacts</a></li>
-            <li class="item item-1"><a href="#">About us</a></li>
+            <li class="item item-1"><a href="#about-us">About us</a></li>
         </ul>
 
         <h1><a href="#" class="logo ">R A K U</a></h1>
@@ -56,7 +56,7 @@
 
     <img class="about-img" src="img/Rakumodel2.png">
 
-    <div class="about-us-container">
+    <div id="about-us" class="about-us-container">
         <h2 class="about-heading">About Us</h2>
         <p class="about-paragraph">At <strong class="brand-name">Raku</strong>, we are passionate about bringing you the latest trends and styles in summer fashion.
             Our mission is to provide a curated collection of high-quality and comfortable clothing that not only keeps you cool during the warmer months but also ensures you look effortlessly chic.

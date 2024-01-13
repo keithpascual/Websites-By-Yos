@@ -18,7 +18,7 @@
             <h1 class="symbol"><a href="Raku.php">楽</a></h1>
             <li class="item item-1"><a href="#">Men</a></li>
             <li class="item item-1"><a href="#">Contacts</a></li>
-            <li class="item item-1"><a href="#">About us</a></li>
+            <li class="item item-1"><a href="Raku.php#about-us">About us</a></li>
         </ul>
 
         <h1><a href="Raku.php" class="logo">R A K U</a></h1>
