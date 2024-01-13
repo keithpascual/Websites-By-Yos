@@ -18,7 +18,7 @@
         <ul class="navigations">
             <h1 class="symbol"><a href="Raku.php">楽</a></h1>
             <li class="item item-1"><a href="mens.php">Men</a></li>
-            <li class="item item-1"><a href="#">Contacts</a></li>
+            <li class="item item-1"><a href="contacts.php">Contacts</a></li>
             <li class="item item-1"><a href="#about-us">About us</a></li>
         </ul>
 

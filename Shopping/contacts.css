@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: 'Outfit', sans-serif;
+}
+
+body {
+    background-color: #fff;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    /* Ensure the body takes at least the height of the viewport */
+}
+
+/* navigation */
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 15%;
+}
+
+.navigations {
+    font-size: 18px;
+    gap: 3px;
+    display: flex;
+}
+
+.navigations li {
+    margin-left: 2px;
+    padding: 0px 5px;
+    display: inline-block;
+}
+
+.symbol {
+    font-size: 20px;
+    padding: 0;
+    height: auto;
+}
+
+.navigations a,
+.symbol {
+    display: flex;
+    align-items: center;
+    color: #000;
+}
+
+.logo {
+    font-size: 50px;
+    color: black;
+    margin-right: auto;
+}
+
+svg {
+    flex-direction: column;
+    width: 20px;
+    color: #000;
+}
+
+.icon-navigations {
+    display: flex;
+    gap: 20px;
+    order: 1;
+}
+
+/* Navigation END */
+
+/* Contact Us Start */
+
+
+.contact-box {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 8px;
+    text-align: left;
+    width: 50rem;
+    margin: auto;
+    margin-top: 100px;
+    
+}
+
+h2 {
+    color: #333;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+    color: #555;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+/* Contact Us End */
+
+/* Footer */
+footer {
+    background-color: #fff;
+    color: #000;
+    padding: 30px;
+    text-align: center;
+    margin-top: auto;
+    /* Push the footer to the bottom */
+}
+
+.footer-section {
+    max-width: 1245px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-section>div {
+    flex: 1;
+    text-align: left;
+    padding: 0 10px;
+}
+
+.footer-section a {
+    color: #666;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.social-icons {
+    flex: 1;
+    text-align: left;
+    padding: 0 10px;
+}
+
+.copyright {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    font-size: 12px;
+    color: #666;
+}
+
+.copyright a {
+    color: #000;
+}
