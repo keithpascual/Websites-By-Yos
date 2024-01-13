@@ -16,6 +16,11 @@ body {
     /* Ensure the body takes at least the height of the viewport */
 }
 
+html {
+    scroll-behavior: smooth;
+  }
+  
+
 /* navigation */
 .nav-container {
     display: flex;
