@@ -51,45 +51,58 @@
         <p>Welcome to RAKU, Browse our shop and elevate your summer style!</p>
         <a href="mens.php"><button>Browse Our Store</button></a>
     </div>
-    <img class="model" src="img/Rakumodel.png" alt="Raku Summer Fashion Model">
 
+    <img class="model" src="img/Rakumodel.png">
 
-    <!-- Footer -->
+    <img class="about-img" src="img/Rakumodel2.png">
 
-    <footer>
-        <div class="footer-section">
-            <div class="men">
-                <h3>Men</h3>
-                <a href="mens.php">EXPLORE MEN’S</a>
-                <a href="#">CLOTHING</a>
-                <a href="#">SNOW</a>
-            </div>
+    <div class="about-us-container">
+        <h2 class="about-heading">About Us</h2>
+        <p class="about-paragraph">At <strong class="brand-name">Raku</strong>, we are passionate about bringing you the latest trends and styles in summer fashion.
+            Our mission is to provide a curated collection of high-quality and comfortable clothing that not only keeps you cool during the warmer months but also ensures you look effortlessly chic.
+            From vibrant dresses to trendy swimwear and casual essentials, our handpicked selection is designed to elevate your summer wardrobe. With a commitment to style,
+            quality, and customer satisfaction, we invite you to explore our online store and discover the perfect pieces to make your summer moments even more memorable.
+            Welcome to the world of fashionable and breezy summer attire, exclusively at <strong class="web-name">RAKU</strong>.</p>
 
-            <div class="explore">
-                <h3>Explore</h3>
-                <a href="#">ABOUT US</a>
-            </div>
-
-            <div class="support">
-                <h3>Support</h3>
-                <a href="#">FAQ</a>
-                <a href="#">ACCESABILITY</a>
-                <a href="#">CONTACTS</a>
-            </div>
-
-            <div class="social-icons">
-                <h3>Connect</h3>
-                <a href="#">INSTAGRAM</a>
-                <a href="#">FACEBOOK</a>
-                <a href="#">TIKTOK</a>
-                <a href="#">TWITTER</a>
-            </div>
-        </div>
-    </footer>
-
-    <div class="copyright">
-        <p>© 2023 ALL RIGHTS RESERVED | <a href="#">PRIVACY</a> | <a href="#">TERMS OF USE</a></p>
+ 
     </div>
+
+        <!-- Footer -->
+
+        <footer>
+            <div class="footer-section">
+                <div class="men">
+                    <h3>Men</h3>
+                    <a href="mens.php">EXPLORE MEN’S</a>
+                    <a href="#">CLOTHING</a>
+                    <a href="#">SNOW</a>
+                </div>
+
+                <div class="explore">
+                    <h3>Explore</h3>
+                    <a href="#">ABOUT US</a>
+                </div>
+
+                <div class="support">
+                    <h3>Support</h3>
+                    <a href="#">FAQ</a>
+                    <a href="#">ACCESABILITY</a>
+                    <a href="#">CONTACTS</a>
+                </div>
+
+                <div class="social-icons">
+                    <h3>Connect</h3>
+                    <a href="#">INSTAGRAM</a>
+                    <a href="#">FACEBOOK</a>
+                    <a href="#">TIKTOK</a>
+                    <a href="#">TWITTER</a>
+                </div>
+            </div>
+        </footer>
+
+        <div class="copyright">
+            <p>© 2023 ALL RIGHTS RESERVED | <a href="#">PRIVACY</a> | <a href="#">TERMS OF USE</a></p>
+        </div>
 </body>
 
 </html>

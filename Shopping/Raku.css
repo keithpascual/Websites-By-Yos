@@ -85,6 +85,46 @@ svg {
   left: 1044px;
 }
 
+.about-img {
+  width: 800px;
+  height: auto;
+  position: relative;
+  top: -101px;
+  left: -381px;
+}
+
+/* About Us START */
+
+.about-us-container {
+  position: relative;
+  left: 63rem;
+  top: -495px;
+  max-width: 800px;
+  margin: 0 20px 20px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.about-heading {
+  font-size: 30px;
+  color: #000;
+  margin-bottom: 15px;
+}
+
+.about-paragraph {
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: justify;
+  color: #000;
+}
+
+.web-name {
+  color: #000; /* Your accent color */
+}
+
+/* About Us END*/
 .content {
   display: flex;
   flex-direction: column;
@@ -117,6 +157,7 @@ button {
 }
 
 /* Footer */
+
 .footer {
   background-color: #fff;
   color: #000;
@@ -143,6 +184,11 @@ button {
   text-decoration: none;
   display: block;
   margin-bottom: 10px;
+  transition: color 0.3s ease; /* Add a smooth color transition */
+}
+
+.footer-section a:hover {
+  color: #000; /* Change color on hover */
 }
 
 .social-icons {
